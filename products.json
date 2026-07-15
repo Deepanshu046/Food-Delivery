@@ -46,13 +46,6 @@
         "name": "Spring Roll",
         "price": "$1.31",
         "image": "images/spring-roll.png"
-    },
-    
-    {
-        "id": 9,
-        "name": "Momos",
-        "price": "$2.05",
-        "image": "images/momos.png"
     }
 
 ]
